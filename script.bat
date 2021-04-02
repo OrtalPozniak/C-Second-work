@@ -1,0 +1,1 @@
+ass3.exe<input.txt>out.txt
